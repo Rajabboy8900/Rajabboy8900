@@ -22,10 +22,46 @@
 
 ---
 
-### 📱 Connect with me:
-<p align="left">
-<a href="https://t.me/R_rajabovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="R_rajabovv" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rajabboy007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajabboy007" height="30" width="40" /></a>
-</p>
+### 💻 My Skills:
+
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <strong>Backend</strong><br/>
+      • JavaScript<br/>
+      • TypeScript<br/>
+      • Node.js<br/>
+      • Express.js<br/>
+      • NestJS<br/>
+      • Java (intermediate)<br/>
+      • Spring Boot<br/>
+      • Spring WebFlux<br/>
+      • SQL
+    </td>
+    <td valign="top" width="25%">
+      <strong>Databases</strong><br/>
+      • PostgreSQL<br/>
+      • MongoDB<br/>
+      • Mongoose<br/>
+      • TypeORM<br/>
+      • MySQL
+    </td>
+    <td valign="top" width="25%">
+      <strong>DevOps</strong><br/>
+      • Docker<br/>
+      • AWS<br/>
+      • CI/CD<br/>
+      • Linux
+    </td>
+    <td valign="top" width="25%">
+      <strong>Tools</strong><br/>
+      • Git<br/>
+      • REST APIs<br/>
+      • GraphQL<br/>
+      • Postman<br/>
+      • VS Code
+    </td>
+  </tr>
+</table>
 
 ![Profile views](https://gpvc.arturio.dev/Rajabboy8900)
