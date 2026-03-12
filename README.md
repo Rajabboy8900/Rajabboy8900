@@ -39,24 +39,6 @@ I enjoy designing clean architectures, developing powerful APIs and optimizing d
 <img src="https://skillicons.dev/icons?i=docker,aws,github,git,linux,postman,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rajabboy8900&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajabboy8900&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajabboy8900&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📱 Connect with Me
 
 <p align="left">
