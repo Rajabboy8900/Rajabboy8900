@@ -74,13 +74,3 @@ I enjoy designing clean architectures, developing powerful APIs and optimizing d
 </a>
 
 </p>
-
----
-
-<p align="left">
-<img src="https://gpvc.arturio.dev/Rajabboy8900" alt="Profile views"/>
-</p>
-
----
-
-⭐ **“Clean architecture, scalable backend systems and reliable APIs.”**
