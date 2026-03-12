@@ -2,20 +2,17 @@
 <h3 align="center">Backend Developer | Building Scalable & High-Performance Systems</h3>
 
 <p align="center">
-Passionate backend developer focused on building scalable, secure and high-performance backend systems.
-I enjoy designing clean architectures, developing powerful APIs and optimizing database performance.
+I am a backend developer specialized in building scalable and high-performance backend systems.
+I enjoy designing clean architectures, developing REST APIs, and optimizing databases to build stable and efficient applications.
 </p>
 
----
+### ⚡ What I Work On
 
-## 🚀 About Me
-
-* 💻 Backend developer specializing in **Node.js, NestJS and Spring**
-* 🧠 Strong understanding of **backend architecture and system design**
-* ⚡ Experience building **REST APIs, CRM systems and scalable backend services**
-* 🗄 Skilled in **database design, relational modeling and query optimization**
-* 🔐 Experienced with **authentication, authorization and security best practices**
-* 📈 Constantly learning new technologies and improving backend performance
+- 🚀 Building scalable backend systems and REST APIs  
+- 🏗 Designing clean and reliable system architectures  
+- 🗄 Working with relational and NoSQL databases  
+- ⚙ Optimizing backend performance and database queries  
+- 💻 Developing backend logic for real-world applications
 
 ---
 
